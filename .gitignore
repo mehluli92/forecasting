@@ -1,0 +1,20 @@
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+
+# --- Data & Predictions ---
+data/
+*.csv
+
+# --- Model Artifacts ---
+*.h5
+*.txt
+*.pkl
+*.model
+
+# --- Python & OS Junk ---
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+.env
+.venv/
